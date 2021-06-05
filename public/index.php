@@ -222,13 +222,11 @@
 	<p>&nbsp;</p>
 
 	<h3>Ajánló</h3>
-	<p class="tipp">Valamikor irtam egy <a href="//csokavar.hu/projects/nes">Nintendo NES</a> emulátort</a> is.</p>
+	<p class="tipp">Valamikor irtam egy <a href="https://nes.csokavar.hu/">Nintendo NES</a> emulátort</a> is.</p>
 
         <p>&nbsp;</p>
 	<h3>Oszd meg az infót</h3>
 	<p>permalink: <span id="permalink"></span></p>
-	<a name="fb_share"  type="box_count" ></a> 
-	<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
 
 	<?php csv_footer(); ?>
 </body>
